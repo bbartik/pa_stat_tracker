@@ -10,7 +10,7 @@ Run in a virtual environment:
 virtualenv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-python pa_stat_tracker
+python pa_stat_tracker.py
 ```
 
 Example output:
